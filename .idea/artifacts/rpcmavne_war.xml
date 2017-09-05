@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rpcmavne:war">
+    <output-path>$PROJECT_DIR$/../rpcmavne/target</output-path>
+    <root id="archive" name="rpc-mavne-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="rpcmavne:war exploded" />
+    </root>
+  </artifact>
+</component>
